@@ -1,0 +1,19 @@
+D:\hsun4\YanZhu-file\arcnlet\ArcMapCommand\bin\Arc10.1\ArcMapCommand.dll.config
+D:\hsun4\YanZhu-file\arcnlet\ArcMapCommand\bin\Arc10.1\ArcMapCommand.dll
+D:\hsun4\YanZhu-file\arcnlet\ArcMapCommand\obj\Arc10.1\ResolveAssemblyReference.cache
+D:\hsun4\YanZhu-file\arcnlet\ArcMapCommand\obj\Arc10.1\ArcMapCommand.Resources.resources
+D:\hsun4\YanZhu-file\arcnlet\ArcMapCommand\obj\Arc10.1\ArcMapCommand.vbproj.GenerateResource.Cache
+D:\hsun4\YanZhu-file\arcnlet\ArcMapCommand\obj\Arc10.1\ArcMapCommand.dll
+D:\ArcNLET\Arcnlet source code\ArcMapCommand\bin\Arc10.1\ArcMapCommand.dll.config
+D:\ArcNLET\Arcnlet source code\ArcMapCommand\bin\Arc10.1\ArcMapCommand.dll
+D:\ArcNLET\Arcnlet source code\ArcMapCommand\bin\Arc10.1\ArcMapCommand.xml
+D:\ArcNLET\Arcnlet source code\ArcMapCommand\bin\Arc10.1\ArcMapCommand.tlb
+D:\ArcNLET\Arcnlet source code\ArcMapCommand\bin\Arc10.1\Aq-Dn.dll
+D:\ArcNLET\Arcnlet source code\ArcMapCommand\bin\Arc10.1\ESRI.ArcGIS.ADF.Connection.Local.dll
+D:\ArcNLET\Arcnlet source code\ArcMapCommand\bin\Arc10.1\IAqDnApplication.dll
+D:\ArcNLET\Arcnlet source code\ArcMapCommand\bin\Arc10.1\ESRI.ArcGIS.ADF.Connection.Local.xml
+D:\ArcNLET\Arcnlet source code\ArcMapCommand\obj\Arc10.1\ArcMapCommand.vbprojResolveAssemblyReference.cache
+D:\ArcNLET\Arcnlet source code\ArcMapCommand\obj\Arc10.1\ArcMapCommand.Resources.resources
+D:\ArcNLET\Arcnlet source code\ArcMapCommand\obj\Arc10.1\ArcMapCommand.vbproj.GenerateResource.Cache
+D:\ArcNLET\Arcnlet source code\ArcMapCommand\obj\Arc10.1\ArcMapCommand.dll
+D:\ArcNLET\Arcnlet source code\ArcMapCommand\obj\Arc10.1\ArcMapCommand.xml

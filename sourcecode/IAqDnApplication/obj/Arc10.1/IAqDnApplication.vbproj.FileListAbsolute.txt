@@ -1,0 +1,9 @@
+D:\hsun4\YanZhu-file\arcnlet\IAqDnApplication\bin\Arc10.1\IAqDnApplication.dll
+D:\hsun4\YanZhu-file\arcnlet\IAqDnApplication\obj\Arc10.1\ResolveAssemblyReference.cache
+D:\hsun4\YanZhu-file\arcnlet\IAqDnApplication\obj\Arc10.1\IAqDnApplication.Resources.resources
+D:\hsun4\YanZhu-file\arcnlet\IAqDnApplication\obj\Arc10.1\IAqDnApplication.vbproj.GenerateResource.Cache
+D:\hsun4\YanZhu-file\arcnlet\IAqDnApplication\obj\Arc10.1\IAqDnApplication.dll
+D:\ArcNLET\Arcnlet source code\IAqDnApplication\bin\Arc10.1\IAqDnApplication.dll
+D:\ArcNLET\Arcnlet source code\IAqDnApplication\obj\Arc10.1\IAqDnApplication.Resources.resources
+D:\ArcNLET\Arcnlet source code\IAqDnApplication\obj\Arc10.1\IAqDnApplication.vbproj.GenerateResource.Cache
+D:\ArcNLET\Arcnlet source code\IAqDnApplication\obj\Arc10.1\IAqDnApplication.dll

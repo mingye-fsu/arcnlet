@@ -1,0 +1,194 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ArcMapCommand
+</name>
+</assembly>
+<members>
+<member name="F:ArcMapCommand.ParticleTrackTool.ClassId">
+	<summary>
+ COM Identity
+ </summary>
+	<remarks></remarks>
+</member><member name="F:ArcMapCommand.ParticleTrackTool.InterfaceId">
+	<summary>
+ COM Identity
+ </summary>
+	<remarks></remarks>
+</member><member name="F:ArcMapCommand.ParticleTrackTool.EventsId">
+	<summary>
+ COM Identity
+ </summary>
+	<remarks></remarks>
+</member><member name="M:ArcMapCommand.ParticleTrackTool.RegisterFunction(System.Type)">
+	<summary>
+ Called when this class is registered for COM
+ </summary>
+	<param name="registerType">Type for ArcGIS Component Category registration</param>
+	<remarks></remarks>
+</member><member name="M:ArcMapCommand.ParticleTrackTool.UnregisterFunction(System.Type)">
+	<summary>
+ Called when this class is unregistered for COM
+ </summary>
+	<param name="registerType">Type for ArcGIS Component Category registration</param>
+	<remarks></remarks>
+</member><member name="M:ArcMapCommand.ParticleTrackTool.ArcGISCategoryRegistration(System.Type)">
+	<summary>
+ Registers this class in the appropriate component category
+ </summary>
+	<param name="registerType">Type to register</param>
+	<remarks></remarks>
+</member><member name="M:ArcMapCommand.ParticleTrackTool.ArcGISCategoryUnregistration(System.Type)">
+	<summary>
+ Unregisters this class from the appropriate component category
+ </summary>
+	<param name="registerType">Type to unregister</param>
+	<remarks></remarks>
+</member><member name="M:ArcMapCommand.ParticleTrackTool.#ctor">
+	<summary>
+ Initializes a new instance of ParticleTrackTool
+ </summary>
+	<remarks>
+  A creatable COM class must have a Public Sub New() 
+ with no parameters, otherwise, the class will not be 
+ registered in the COM registry and cannot be created 
+ via CreateObject.
+ </remarks>
+</member><member name="T:ArcMapCommand.ParticleTrackTool">
+	<summary>
+ COM accessible class that inherits the BaseTool class.  This is the class that is called by ArcMap when
+ the button is clicked for the particle track tool in ArcMap.
+ </summary>
+	<remarks>
+ This class creates the form that is shown when the toolbar button is clicked.  Note the form
+ is loaded in process (no remoting is performed)
+ </remarks>
+</member><member name="P:ArcMapCommand.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ArcMapCommand.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ArcMapCommand.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:ArcMapCommand.ArcNLET_UA.ArcGISCategoryRegistration(System.Type)">
+	<summary>
+ Required method for ArcGIS Component Category registration -
+ Do not modify the contents of this method with the code editor.
+ </summary>
+</member><member name="M:ArcMapCommand.ArcNLET_UA.ArcGISCategoryUnregistration(System.Type)">
+	<summary>
+ Required method for ArcGIS Component Category unregistration -
+ Do not modify the contents of this method with the code editor.
+ </summary>
+</member><member name="M:ArcMapCommand.ArcNLET_UA.#ctor">
+	<summary>
+ Initializes a new instance of ArcNLET_UA
+ </summary>
+	<remarks>
+  A creatable COM class must have a Public Sub New() 
+ with no parameters, otherwise, the class will not be 
+ registered in the COM registry and cannot be created 
+ via CreateObject.
+ </remarks>
+</member><member name="T:ArcMapCommand.ToolbarInstaller">
+	<summary>
+ Called by the installer MSI to register the DLLs with ArcGIS and COM
+ </summary>
+	<remarks>
+ This application should always be compiled as 32bit. 
+ then the installation folder should be the Program Files\Common Files or
+ Program Files (x86)\Common Files folder.
+ </remarks>
+</member><member name="M:ArcMapCommand.Command.ArcGISCategoryRegistration(System.Type)">
+	<summary>
+ Required method for ArcGIS Component Category registration -
+ Do not modify the contents of this method with the code editor.
+ </summary>
+</member><member name="M:ArcMapCommand.Command.ArcGISCategoryUnregistration(System.Type)">
+	<summary>
+ Required method for ArcGIS Component Category unregistration -
+ Do not modify the contents of this method with the code editor.
+ </summary>
+</member><member name="M:ArcMapCommand.Command.#ctor">
+	<summary>
+ Mandatory parameterless constructor for COM
+ A creatable COM class must have a Public Sub New() 
+ with no parameters, otherwise, the class will not be 
+ registered in the COM registry and cannot be created 
+ via CreateObject.
+ </summary>
+	<remarks>
+ Initializes some member variables of BaseTool.
+ </remarks>
+</member><member name="M:ArcMapCommand.Command.OnCreate(System.Object)">
+	<summary>
+ Called when the COM component is created.
+ </summary>
+	<param name="hook">The reference to the IApplication. In this case the reference should be an ArcMap IMxApplication2 reference</param>
+	<remarks>
+		<para>
+ From the ArcObjects documentation:
+ "When you implement ICommand to create a custom command, you will find that your 
+ class constructor and destructor are called more than once per session.  
+ Commands are constructed once initially to get information about them, like the name, bitmap, 
+ etc and then they are destroyed.  When the final, complete construction takes place, the 
+ OnCreate method gets called.  OnCreate gets called only once, so you can rely on it to 
+ perform initialization of member variables.  You can check for initialized member variables 
+ in the class destructor to find out if OnCreate has been called previously."
+ </para>
+	</remarks>
+</member><member name="M:ArcMapCommand.Command.OnClick">
+	<summary>
+ Called whenever the command is clicked.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:ArcMapCommand.Command">
+	<summary>
+ This is the main COM visible class that gets instantiated when the main program button in the toolbar in ArcGIS
+ </summary>
+	<remarks>
+		<code>
+ Creating a COM class that is callable by ArcGIS involves the following
+ 1. create a COM callable project. Use visual studio's built in template for this.  The template will 
+ automatically set the Make Assembly COM visible option in the application properties and it will generate
+ a GUID
+ 2. Add a new COM callable class. Use the VS template for this.  The template will automatically generate
+ code to register the class to COM including some GUIDs. It will also set the COM Class anc COM Visible properties
+ of the class to true.
+ 3. Upon class registration, need to set the reg entries that tell ArcGIS that this tool exists.  There are
+ some functions that can be implemented that are called when the function is registered by regasm (or the VS IDE)
+ Can implement these functions manually by specifying the System.Runtime.InteropServices.ComRegisterFunction() attribute
+ on the desrired sub and then calling Register on the desried category.  The Add Component Category tool of the ArcGIS
+ .Net SDK VS Integration kit (accesible via the Project menu in VS) will do this for you.
+ 4. The class must implement the ICommand interface if its a command, or the ITool interface if its a tool (i.e. interacts with maps)
+ You can do this manually or with by extending the new (for ArcGIS 9.3) ADF classes BaseCommand or BaseTool.
+ IMPORTANT: some properties of ITool or ICommand must be set (e.g category,name) or else it won't show up in ArcGIS
+ 
+ In order to be able to debug the application, the debug application must be set to ArcMap.exe
+ </code>
+	</remarks>
+</member><member name="M:ArcMapCommand.Toolbar.ArcGISCategoryRegistration(System.Type)">
+	<summary>
+ Required method for ArcGIS Component Category registration -
+ Do not modify the contents of this method with the code editor.
+ </summary>
+</member><member name="M:ArcMapCommand.Toolbar.ArcGISCategoryUnregistration(System.Type)">
+	<summary>
+ Required method for ArcGIS Component Category unregistration -
+ Do not modify the contents of this method with the code editor.
+ </summary>
+</member><member name="T:ArcMapCommand.Toolbar">
+	<summary>
+ An instance of an ArcGIS toolbar to which the buttons of this app. will be added to.
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

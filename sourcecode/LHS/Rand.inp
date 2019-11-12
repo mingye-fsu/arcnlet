@@ -1,0 +1,28 @@
+TITLE SDB Name = LHSTEST         , Ver = 2.51         07/12/00
+TITLE LHS Perm, por, multi, and Hyfrac length for Rulison Project
+NOBS                2000
+RANDOM SEED       933090934
+TRIANGULAR               hy37    hy_con37
+1.2198   6.6960    12.1976
+TRIANGULAR               hy58    hy_con58
+3.6593   7.9488    12.1976
+TRIANGULAR               hy113    hy_con113
+12.1824  21.3408   30.4992
+TRIANGULAR               hy240    hy_con240
+3.6593   7.9488    12.1976
+TRIANGULAR               hy268    hy_con268
+3.6593   7.9488    12.1976
+TRIANGULAR               hy269    hy_con269
+0.1220   0.6912    1.2198
+TRIANGULAR               hy299    hy_con299
+3.6593   7.9488    12.1976
+TRIANGULAR               hy315    hy_con315
+3.6593   7.9488    12.1976
+NORMAL                 UniMult C0
+  40.0            160.0
+NORMAL                UniMult ax
+   0.21            21.34    
+LOGNORMAL             UniMult kDEN
+   0.004           0.036  
+OUTPUT CORR HIST DATA
+TITLE SDB Name = LHSTEST         , Ver = 2.51         07/12/00

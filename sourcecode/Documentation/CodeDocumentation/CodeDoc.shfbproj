@@ -1,0 +1,70 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <!-- The configuration and platform will be used to determine which
+         assemblies to include from solution and project documentation
+         sources -->
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{18849309-b377-4f0e-9d84-dc025c9f27bb}</ProjectGuid>
+    <SHFBSchemaVersion>1.8.0.0</SHFBSchemaVersion>
+    <!-- AssemblyName, Name, and RootNamespace are not used by SHFB but Visual
+         Studio adds them anyway -->
+    <AssemblyName>Documentation</AssemblyName>
+    <RootNamespace>Documentation</RootNamespace>
+    <Name>Documentation</Name>
+    <!-- SHFB properties -->
+    <OutputPath>.\Help\</OutputPath>
+    <HtmlHelpName>Aq-Dn Code Docs</HtmlHelpName>
+    <DocumentationSources>
+      <DocumentationSource sourceFile="..\..\aq-dn.sln" xmlns="" />
+    </DocumentationSources>
+    <NamespaceSummaries>
+      <NamespaceSummaryItem name="AqDn" isDocumented="True">Main program libraries</NamespaceSummaryItem>
+      <NamespaceSummaryItem name="AqDnWrapper" isDocumented="True">Wrapper to enable executing main libraries from within ArcGIS but in a separate memory space</NamespaceSummaryItem>
+      <NamespaceSummaryItem name="AqDnWrapperBootstrapper" isDocumented="True">Bootstrapper to execute AqDnWrapper</NamespaceSummaryItem>
+      <NamespaceSummaryItem name="ArcMapCommand" isDocumented="True">Contains the application toolbar and toolbar commands that appear in the ArcMap toolbar</NamespaceSummaryItem>
+      <NamespaceSummaryItem name="BatchTools" isDocumented="True">Enables the execution of the AqDn libraries outside of ArcGIS (licenses are still required though)</NamespaceSummaryItem>
+      <NamespaceSummaryItem name="IAqDnApplication" isDocumented="True">Interfaces used for remoting</NamespaceSummaryItem>
+      <NamespaceSummaryItem name="AqDnWrapper.My" isDocumented="False" />
+      <NamespaceSummaryItem name="AqDnWrapperBootstrapper.My" isDocumented="False" />
+      <NamespaceSummaryItem name="ArcMapCommand.My" isDocumented="False" />
+      <NamespaceSummaryItem name="IAqDnApplication.My" isDocumented="False" />
+    </NamespaceSummaries>
+    <ProjectSummary>This help file documents the code of the Shallow Aquifer Nitrate Transport and Denitrification project</ProjectSummary>
+    <HelpTitle>Code Documentation for Aq-Dn</HelpTitle>
+    <ApiFilter>
+      <Filter entryType="Namespace" fullName="" isExposed="False" />
+      <Filter entryType="Namespace" fullName="AqDn" isExposed="True">
+        <Filter entryType="Interface" fullName="AqDn.Main._Main" filterName="Main._Main" isExposed="False" />
+      </Filter>
+      <Filter entryType="Namespace" fullName="AqDn.My" isExposed="False" />
+      <Filter entryType="Namespace" fullName="BatchTools.My" isExposed="False" />
+    </ApiFilter>
+    <ComponentConfigurations>
+      <ComponentConfig id="Code Block Component" enabled="True" xmlns="">
+        <component id="Code Block Component" type="SandcastleBuilder.Components.CodeBlockComponent" assembly="{@SHFBFolder}SandcastleBuilder.Components.dll">
+          <basePath value="{@HtmlEncProjectFolder}" />
+          <languageFilter value="true" />
+          <allowMissingSource value="false" />
+          <removeRegionMarkers value="false" />
+          <colorizer syntaxFile="{@SHFBFolder}Colorizer\highlight.xml" styleFile="{@SHFBFolder}Colorizer\highlight.xsl" copyImageUrl="../icons/CopyCode.gif" language="vbnet" tabSize="0" numberLines="false" outlining="false" keepSeeTags="false" defaultTitle="true" />
+        </component>
+      </ComponentConfig>
+    </ComponentConfigurations>
+    <VisibleItems>ExplicitInterfaceImplementations, InheritedMembers, Privates, Protected, ProtectedInternalAsProtected, SealedProtected</VisibleItems>
+    <SyntaxFilters>VisualBasic</SyntaxFilters>
+    <Language>en-US</Language>
+    <ProjectLinkType>Local</ProjectLinkType>
+    <MissingTags>AutoDocumentCtors, Namespace</MissingTags>
+    <RootNamespaceContainer>True</RootNamespaceContainer>
+  </PropertyGroup>
+  <!-- There are no properties for these two groups but they need to appear in
+       order for Visual Studio to perform the build. -->
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+  </PropertyGroup>
+  <!-- Import the SHFB build targets -->
+  <Import Project="$(SHFBROOT)\SandcastleHelpFileBuilder.targets" />
+</Project>
