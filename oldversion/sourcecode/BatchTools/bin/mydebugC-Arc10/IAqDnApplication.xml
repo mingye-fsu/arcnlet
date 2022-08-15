@@ -1,0 +1,68 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IAqDnApplication
+</name>
+</assembly>
+<members>
+<member name="T:IAqDnApplication.IWrapperBootstrapper">
+	<summary>
+ Interface used by RemotingBootstrapper
+ </summary>
+	<remarks></remarks>
+</member><member name="P:IAqDnApplication.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:IAqDnApplication.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:IAqDnApplication.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:IAqDnApplication.ITransportRunRemote.CancelChannelURI">
+	<summary>
+ Set by the wrapper to the channel that it is listening for cancelation requests
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:IAqDnApplication.ITransportRunRemote.InParams">
+	<summary>
+ The parameters that the wrapper will retrieve
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:IAqDnApplication.ITransportRunRemote.OutParams">
+	<summary>
+ The output parameters that the transport module provides. Set by the wrapper
+ when the transport calculation finishes.
+ </summary>
+	<value></value>
+	<returns>The output parameters. If there are none the hash table will be empty</returns>
+	<remarks></remarks>
+</member><member name="M:IAqDnApplication.ITransportRunRemote.TransportWrapperProcessTerminated(System.String)">
+	<summary>
+ Called by the bootstrapper to notify the main ui that the wrapper process has terminated
+ </summary>
+	<param name="msg">message</param>
+	<remarks>This function is only used by the Bootstrapper, not the wrapper</remarks>
+</member><member name="M:IAqDnApplication.ITransportRunRemote.TransportCalculationComplete(System.String)">
+	<summary>
+ Notify the main UI that the calculation is complete (either sucess or failure)
+ </summary>
+	<param name="msg">The return message</param>
+	<remarks></remarks>
+</member><member name="T:IAqDnApplication.ITransportRunRemote">
+	<summary>
+ Interface used by TransportRunRemote
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

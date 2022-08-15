@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AqDnWrapperBootstrapper
+</name>
+</assembly>
+<members>
+<member name="M:AqDnWrapperBootstrapper.RemotingBootstrapper.kill">
+	<summary>
+ Kills the child process
+ </summary>
+	<remarks></remarks>
+</member><member name="M:AqDnWrapperBootstrapper.RemotingBootstrapper.run(System.String,System.String)">
+	<summary>
+ Starts execution of the wrapper
+ </summary>
+	<param name="channelURI">The URI of the remoting communications channel that the wrapper
+ will use to communicate with the mainUI</param>
+	<remarks></remarks>
+</member><member name="M:AqDnWrapperBootstrapper.RemotingBootstrapper.Finalize">
+	<summary>
+ Kill the child process if this form exits
+ </summary>
+	<remarks></remarks>
+</member><member name="M:AqDnWrapperBootstrapper.RemotingBootstrapper.m_childproc_Exited(System.Object,System.EventArgs)">
+	<summary>
+ Used to unregister the wrapper-bootstrapper channel when the client exits
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="T:AqDnWrapperBootstrapper.RemotingBootstrapper">
+	<summary>
+ This class is loaded by the Remoting server into a separate AppDomain.  Its function is only to execute the
+ wrapper AqDnWrapper and notify the server if the process has exited
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,45 @@
+D:\hsun4\YanZhu-file\arcnlet\BatchTools\bin\x86\Arc10\BatchTools.exe.config
+D:\hsun4\YanZhu-file\arcnlet\BatchTools\bin\x86\Arc10\BatchTools.exe
+D:\hsun4\YanZhu-file\arcnlet\BatchTools\bin\x86\Arc10\BatchTools.pdb
+D:\hsun4\YanZhu-file\arcnlet\BatchTools\bin\x86\Arc10\BatchTools.xml
+D:\hsun4\YanZhu-file\arcnlet\BatchTools\bin\x86\Arc10\Aq-Dn.dll
+D:\hsun4\YanZhu-file\arcnlet\BatchTools\bin\x86\Arc10\IAqDnApplication.dll
+D:\hsun4\YanZhu-file\arcnlet\BatchTools\bin\x86\Arc10\Aq-Dn.pdb
+D:\hsun4\YanZhu-file\arcnlet\BatchTools\bin\x86\Arc10\Aq-Dn.xml
+D:\hsun4\YanZhu-file\arcnlet\BatchTools\bin\x86\Arc10\IAqDnApplication.pdb
+D:\hsun4\YanZhu-file\arcnlet\BatchTools\bin\x86\Arc10\IAqDnApplication.xml
+D:\hsun4\YanZhu-file\arcnlet\BatchTools\obj\x86\Arc10\ResolveAssemblyReference.cache
+D:\hsun4\YanZhu-file\arcnlet\BatchTools\obj\x86\Arc10\BatchTools.Resources.resources
+D:\hsun4\YanZhu-file\arcnlet\BatchTools\obj\x86\Arc10\BatchTools.vbproj.GenerateResource.Cache
+D:\hsun4\YanZhu-file\arcnlet\BatchTools\obj\x86\Arc10\BatchTools.exe
+D:\hsun4\YanZhu-file\arcnlet\BatchTools\obj\x86\Arc10\BatchTools.xml
+D:\hsun4\YanZhu-file\arcnlet\BatchTools\obj\x86\Arc10\BatchTools.pdb
+D:\hsun4\YanZhu-file\Couple VZMOD ArcNLET\arcnlet\BatchTools\bin\x86\Arc10\BatchTools.exe.config
+D:\hsun4\YanZhu-file\Couple VZMOD ArcNLET\arcnlet\BatchTools\bin\x86\Arc10\BatchTools.exe
+D:\hsun4\YanZhu-file\Couple VZMOD ArcNLET\arcnlet\BatchTools\bin\x86\Arc10\BatchTools.pdb
+D:\hsun4\YanZhu-file\Couple VZMOD ArcNLET\arcnlet\BatchTools\bin\x86\Arc10\BatchTools.xml
+D:\hsun4\YanZhu-file\Couple VZMOD ArcNLET\arcnlet\BatchTools\bin\x86\Arc10\Aq-Dn.dll
+D:\hsun4\YanZhu-file\Couple VZMOD ArcNLET\arcnlet\BatchTools\bin\x86\Arc10\IAqDnApplication.dll
+D:\hsun4\YanZhu-file\Couple VZMOD ArcNLET\arcnlet\BatchTools\bin\x86\Arc10\IAqDnApplication.pdb
+D:\hsun4\YanZhu-file\Couple VZMOD ArcNLET\arcnlet\BatchTools\bin\x86\Arc10\IAqDnApplication.xml
+D:\hsun4\YanZhu-file\Couple VZMOD ArcNLET\arcnlet\BatchTools\bin\x86\Arc10\Aq-Dn.pdb
+D:\hsun4\YanZhu-file\Couple VZMOD ArcNLET\arcnlet\BatchTools\bin\x86\Arc10\Aq-Dn.xml
+D:\hsun4\YanZhu-file\Couple VZMOD ArcNLET\arcnlet\BatchTools\obj\x86\Arc10\ResolveAssemblyReference.cache
+D:\hsun4\YanZhu-file\Couple VZMOD ArcNLET\arcnlet\BatchTools\obj\x86\Arc10\BatchTools.Resources.resources
+D:\hsun4\YanZhu-file\Couple VZMOD ArcNLET\arcnlet\BatchTools\obj\x86\Arc10\BatchTools.vbproj.GenerateResource.Cache
+D:\hsun4\YanZhu-file\Couple VZMOD ArcNLET\arcnlet\BatchTools\obj\x86\Arc10\BatchTools.exe
+D:\hsun4\YanZhu-file\Couple VZMOD ArcNLET\arcnlet\BatchTools\obj\x86\Arc10\BatchTools.xml
+D:\hsun4\YanZhu-file\Couple VZMOD ArcNLET\arcnlet\BatchTools\obj\x86\Arc10\BatchTools.pdb
+D:\ArcNLET\Arcnlet source code\BatchTools\obj\x86\Arc10\BatchTools.vbprojResolveAssemblyReference.cache
+D:\ArcNLET\Arcnlet source code\BatchTools\obj\x86\Arc10\BatchTools.Resources.resources
+D:\ArcNLET\Arcnlet source code\BatchTools\obj\x86\Arc10\BatchTools.vbproj.GenerateResource.Cache
+D:\ArcNLET\Arcnlet source code\BatchTools\obj\x86\Arc10\BatchTools.exe
+D:\ArcNLET\Arcnlet source code\BatchTools\obj\x86\Arc10\BatchTools.xml
+D:\ArcNLET\Arcnlet source code\BatchTools\obj\x86\Arc10\BatchTools.pdb
+D:\ArcNLET\Arcnlet source code\BatchTools\bin\x86\Arc10\BatchTools.exe.config
+D:\ArcNLET\Arcnlet source code\BatchTools\bin\x86\Arc10\BatchTools.exe
+D:\ArcNLET\Arcnlet source code\BatchTools\bin\x86\Arc10\BatchTools.pdb
+D:\ArcNLET\Arcnlet source code\BatchTools\bin\x86\Arc10\BatchTools.xml
+D:\ArcNLET\Arcnlet source code\BatchTools\bin\x86\Arc10\Aq-Dn.dll
+D:\ArcNLET\Arcnlet source code\BatchTools\bin\x86\Arc10\Aq-Dn.pdb
+D:\ArcNLET\Arcnlet source code\BatchTools\bin\x86\Arc10\Aq-Dn.xml
