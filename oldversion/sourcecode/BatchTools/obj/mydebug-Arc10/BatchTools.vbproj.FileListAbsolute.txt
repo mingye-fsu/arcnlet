@@ -30,9 +30,3 @@ D:\LEI\ArcNLET\ArcNLET\SVN\dev-lei\v03\ArcNLET03\BatchTools\obj\mydebug-Arc10\Ba
 D:\LEI\ArcNLET\ArcNLET\SVN\dev-lei\v03\ArcNLET03\BatchTools\obj\mydebug-Arc10\BatchTools.exe
 D:\LEI\ArcNLET\ArcNLET\SVN\dev-lei\v03\ArcNLET03\BatchTools\obj\mydebug-Arc10\BatchTools.xml
 D:\LEI\ArcNLET\ArcNLET\SVN\dev-lei\v03\ArcNLET03\BatchTools\obj\mydebug-Arc10\BatchTools.pdb
-Z:\Share\arcnlet\arcnlet\sourcecode\BatchTools\obj\mydebug-Arc10\BatchTools.vbprojResolveAssemblyReference.cache
-Z:\Share\arcnlet\arcnlet\sourcecode\BatchTools\obj\mydebug-Arc10\BatchTools.Resources.resources
-Z:\Share\arcnlet\arcnlet\sourcecode\BatchTools\obj\mydebug-Arc10\BatchTools.vbproj.GenerateResource.Cache
-Z:\Share\arcnlet\arcnlet\sourcecode\BatchTools\obj\mydebug-Arc10\BatchTools.exe
-Z:\Share\arcnlet\arcnlet\sourcecode\BatchTools\obj\mydebug-Arc10\BatchTools.xml
-Z:\Share\arcnlet\arcnlet\sourcecode\BatchTools\obj\mydebug-Arc10\BatchTools.pdb

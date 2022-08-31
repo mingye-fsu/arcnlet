@@ -24,11 +24,3 @@ G:\ArcNLET_ArcGIS\ArcNLET\v03_104\ArcNLET03\IAqDnApplication\obj\mydebug-Arc10\I
 G:\ArcNLET_ArcGIS\ArcNLET\v03_104\ArcNLET03\IAqDnApplication\obj\mydebug-Arc10\IAqDnApplication.dll
 G:\ArcNLET_ArcGIS\ArcNLET\v03_104\ArcNLET03\IAqDnApplication\obj\mydebug-Arc10\IAqDnApplication.xml
 G:\ArcNLET_ArcGIS\ArcNLET\v03_104\ArcNLET03\IAqDnApplication\obj\mydebug-Arc10\IAqDnApplication.pdb
-Z:\Share\arcnlet\arcnlet\sourcecode\IAqDnApplication\bin\mydebug-Arc10\IAqDnApplication.dll
-Z:\Share\arcnlet\arcnlet\sourcecode\IAqDnApplication\bin\mydebug-Arc10\IAqDnApplication.pdb
-Z:\Share\arcnlet\arcnlet\sourcecode\IAqDnApplication\bin\mydebug-Arc10\IAqDnApplication.xml
-Z:\Share\arcnlet\arcnlet\sourcecode\IAqDnApplication\obj\mydebug-Arc10\IAqDnApplication.Resources.resources
-Z:\Share\arcnlet\arcnlet\sourcecode\IAqDnApplication\obj\mydebug-Arc10\IAqDnApplication.vbproj.GenerateResource.Cache
-Z:\Share\arcnlet\arcnlet\sourcecode\IAqDnApplication\obj\mydebug-Arc10\IAqDnApplication.dll
-Z:\Share\arcnlet\arcnlet\sourcecode\IAqDnApplication\obj\mydebug-Arc10\IAqDnApplication.xml
-Z:\Share\arcnlet\arcnlet\sourcecode\IAqDnApplication\obj\mydebug-Arc10\IAqDnApplication.pdb

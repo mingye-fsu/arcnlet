@@ -54,14 +54,3 @@ G:\ArcNLET_ArcGIS\ArcNLET\v03_104\ArcNLET03\aq-dn\obj\mydebug-Arc10\Aq-Dn.vbproj
 G:\ArcNLET_ArcGIS\ArcNLET\v03_104\ArcNLET03\aq-dn\obj\mydebug-Arc10\Aq-Dn.dll
 G:\ArcNLET_ArcGIS\ArcNLET\v03_104\ArcNLET03\aq-dn\obj\mydebug-Arc10\Aq-Dn.xml
 G:\ArcNLET_ArcGIS\ArcNLET\v03_104\ArcNLET03\aq-dn\obj\mydebug-Arc10\Aq-Dn.pdb
-Z:\Share\arcnlet\arcnlet\sourcecode\aq-dn\obj\mydebug-Arc10\Aq-Dn.vbprojResolveAssemblyReference.cache
-Z:\Share\arcnlet\arcnlet\sourcecode\aq-dn\obj\mydebug-Arc10\AqDn.PopupInfo.resources
-Z:\Share\arcnlet\arcnlet\sourcecode\aq-dn\obj\mydebug-Arc10\AqDn.MainForm.resources
-Z:\Share\arcnlet\arcnlet\sourcecode\aq-dn\obj\mydebug-Arc10\AqDn.Resources.resources
-Z:\Share\arcnlet\arcnlet\sourcecode\aq-dn\obj\mydebug-Arc10\AqDn.AdditionalOptionsAndParamsTR.resources
-Z:\Share\arcnlet\arcnlet\sourcecode\aq-dn\obj\mydebug-Arc10\AqDn.GBCutout_LL.resources
-Z:\Share\arcnlet\arcnlet\sourcecode\aq-dn\obj\mydebug-Arc10\AqDn.ParticleTrackForm.resources
-Z:\Share\arcnlet\arcnlet\sourcecode\aq-dn\obj\mydebug-Arc10\Aq-Dn.vbproj.GenerateResource.Cache
-Z:\Share\arcnlet\arcnlet\sourcecode\aq-dn\obj\mydebug-Arc10\Aq-Dn.dll
-Z:\Share\arcnlet\arcnlet\sourcecode\aq-dn\obj\mydebug-Arc10\Aq-Dn.xml
-Z:\Share\arcnlet\arcnlet\sourcecode\aq-dn\obj\mydebug-Arc10\Aq-Dn.pdb

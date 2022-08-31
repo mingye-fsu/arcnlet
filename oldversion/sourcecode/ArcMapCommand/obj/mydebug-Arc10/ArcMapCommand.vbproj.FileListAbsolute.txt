@@ -87,9 +87,3 @@ G:\ArcNLET_ArcGIS\ArcNLET\v03_104\ArcNLET03\ArcMapCommand\obj\mydebug-Arc10\ArcM
 G:\ArcNLET_ArcGIS\ArcNLET\v03_104\ArcNLET03\ArcMapCommand\obj\mydebug-Arc10\ArcMapCommand.dll
 G:\ArcNLET_ArcGIS\ArcNLET\v03_104\ArcNLET03\ArcMapCommand\obj\mydebug-Arc10\ArcMapCommand.xml
 G:\ArcNLET_ArcGIS\ArcNLET\v03_104\ArcNLET03\ArcMapCommand\obj\mydebug-Arc10\ArcMapCommand.pdb
-Z:\Share\arcnlet\arcnlet\sourcecode\ArcMapCommand\obj\mydebug-Arc10\ArcMapCommand.vbprojResolveAssemblyReference.cache
-Z:\Share\arcnlet\arcnlet\sourcecode\ArcMapCommand\obj\mydebug-Arc10\ArcMapCommand.Resources.resources
-Z:\Share\arcnlet\arcnlet\sourcecode\ArcMapCommand\obj\mydebug-Arc10\ArcMapCommand.vbproj.GenerateResource.Cache
-Z:\Share\arcnlet\arcnlet\sourcecode\ArcMapCommand\obj\mydebug-Arc10\ArcMapCommand.dll
-Z:\Share\arcnlet\arcnlet\sourcecode\ArcMapCommand\obj\mydebug-Arc10\ArcMapCommand.xml
-Z:\Share\arcnlet\arcnlet\sourcecode\ArcMapCommand\obj\mydebug-Arc10\ArcMapCommand.pdb

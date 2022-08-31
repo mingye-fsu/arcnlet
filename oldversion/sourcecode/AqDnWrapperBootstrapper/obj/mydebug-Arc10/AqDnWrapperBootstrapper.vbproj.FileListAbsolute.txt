@@ -119,9 +119,3 @@ G:\ArcNLET_ArcGIS\ArcNLET\v03_104\ArcNLET03\AqDnWrapperBootstrapper\obj\mydebug-
 G:\ArcNLET_ArcGIS\ArcNLET\v03_104\ArcNLET03\AqDnWrapperBootstrapper\obj\mydebug-Arc10\AqDnWrapperBootstrapper.dll
 G:\ArcNLET_ArcGIS\ArcNLET\v03_104\ArcNLET03\AqDnWrapperBootstrapper\obj\mydebug-Arc10\AqDnWrapperBootstrapper.xml
 G:\ArcNLET_ArcGIS\ArcNLET\v03_104\ArcNLET03\AqDnWrapperBootstrapper\obj\mydebug-Arc10\AqDnWrapperBootstrapper.pdb
-Z:\Share\arcnlet\arcnlet\sourcecode\AqDnWrapperBootstrapper\obj\mydebug-Arc10\AqDnWrapperBootstrapper.vbprojResolveAssemblyReference.cache
-Z:\Share\arcnlet\arcnlet\sourcecode\AqDnWrapperBootstrapper\obj\mydebug-Arc10\AqDnWrapperBootstrapper.Resources.resources
-Z:\Share\arcnlet\arcnlet\sourcecode\AqDnWrapperBootstrapper\obj\mydebug-Arc10\AqDnWrapperBootstrapper.vbproj.GenerateResource.Cache
-Z:\Share\arcnlet\arcnlet\sourcecode\AqDnWrapperBootstrapper\obj\mydebug-Arc10\AqDnWrapperBootstrapper.dll
-Z:\Share\arcnlet\arcnlet\sourcecode\AqDnWrapperBootstrapper\obj\mydebug-Arc10\AqDnWrapperBootstrapper.xml
-Z:\Share\arcnlet\arcnlet\sourcecode\AqDnWrapperBootstrapper\obj\mydebug-Arc10\AqDnWrapperBootstrapper.pdb
